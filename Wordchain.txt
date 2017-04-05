@@ -1,0 +1,14 @@
+3
+5
+god
+dog
+need
+dragon
+nurse
+3
+aa
+ab
+bb
+2
+ab
+cd
